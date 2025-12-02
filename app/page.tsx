@@ -336,9 +336,11 @@ const Portfolio = () => {
           >
             Contact
           </button>
+          
+          {/* UPDATED DOWNLOAD BUTTON */}
           <a 
-            href="/Stelamae Sumalinog.pdf"
-            download="/Stelamae Sumalinog.pdf"
+            href="/Stelay.pdf"
+            download="Stelay.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto sm:ml-auto px-6 py-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-full text-sm font-semibold hover:shadow-lg transition-all flex items-center justify-center gap-2"
